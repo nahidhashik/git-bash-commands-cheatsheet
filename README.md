@@ -81,3 +81,75 @@
 
    - This command discards all history and goes back to the specific commit mentioned ..
 
+   # BRANCH AND MERGE
+   **git branch**
+
+   - This command lists the branches available in the repository.
+
+   **git branch [branch name]**
+
+   - This command creates a new branch.
+
+   **git branch -d [branch name]**
+
+   - This command deletes the feature branch.
+
+   **git checkout [branch name]**
+
+   - This command is used to checkout to the branch specified.
+
+   **git checkout -b [branch name]**
+
+   - This command creates a new branch and then checks out to the same.
+
+   **git merge [branch name]**
+
+   - This command merges specified branches to the current branch.
+
+   # LOGS AND REVIEW
+   **git log**
+
+   - This command is used to list the version history for the current branch.
+
+   **git log -follow [file]**
+
+   - This command particularly shows the versions of the file mentioned.
+
+   **git show [commit]**
+
+   - This command shows the content change and metadata status of the specific commit. 
+
+   # REMOTE UPDATE AND SHARE
+   **git remote add [variable name] [URL]**
+
+   - This command is used to connect your local repository to the remote server.
+
+   **git push [variable name] [branch name]**
+
+   - This command sends the branch commits to your remote server
+
+   **git push --set-upstream [variable name] [branch name]**
+
+   or 
+
+   **git push -u origin [branch name]**
+
+   - If branch is newly created, then we can upload with above command 
+
+   **git push [variable name] master**
+
+   - This command sends the committed changes of the master branch to your remote repository.
+
+   **git push -all [variable name]**
+
+   * This command pushes all branches to your remote repository.
+
+   **git pull [repository link]**
+
+   - This command fetches and merges changes on the remote server to your working directory. 
+
+   Note: Git push only uploads changes that are committed.
+
+   # Conclusion
+   - Git bash is very handy to deal with Git's features and functions. Happy learning!
+
