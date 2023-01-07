@@ -29,7 +29,7 @@
 
    - This command adds a file from the working tree to the Staging area / current branch.
 
-   **git add ***
+   **git add [*]**
 
    - This command adds one or more files from the working tree to the Staging area / current branch.
 
