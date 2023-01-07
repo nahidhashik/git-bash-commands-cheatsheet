@@ -1,9 +1,11 @@
    ![download](https://user-images.githubusercontent.com/37225357/211137423-206f6ff4-4b92-417a-ad5c-9bde536d9634.png)
 
 
-
-   # INSTALLATION
+   # WHY GIT BASH? 
+   Git Bash is a command line interface provided by Microsoft Windows. Bash is an acronym for Bourne Again Shell. Git bash allows the Git features to be used via the command line interface and in addition to that most of the Unix commands are also available. acts like an interface between Git and the local repository (local code copy)
    
+   # INSTALLATION
+
    This site was built using [For windows](https://gitforwindows.org/) download Git bash from here
 
    # A LIST OF GIT BASH COMMANDS:
