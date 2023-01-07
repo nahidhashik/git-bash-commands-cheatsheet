@@ -1,7 +1,7 @@
 # SETUP 
 **git config --global user.name “[name]”**
 
-   - This command sets username, which aids in reviewing by whom the - changes were made. 
+   - `#RRGGBB` This command sets username, which aids in reviewing by whom the - changes were made. 
 
 **git config --global user.email “[email address]”**
 
