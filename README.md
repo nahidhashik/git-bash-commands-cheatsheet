@@ -3,6 +3,7 @@
 
 
    # INSTALLATION
+   
    This site was built using [For windows](https://gitforwindows.org/) download Git bash from here
 
    # A LIST OF GIT BASH COMMANDS:
