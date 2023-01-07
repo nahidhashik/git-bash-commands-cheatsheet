@@ -1,3 +1,6 @@
+   ![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Ficonsimple-logotypes%2F512%2Fgithub-512.png&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F291716%2Fgithub_logo_social_network_social_icon&tbnid=_bqfkqLTzskPMM&vet=12ahUKEwjQn6647bT8AhXljtgFHQNHCAEQMygDegUIARDjAQ..i&docid=JY-eVDG-JQ2uaM&w=512&h=512&q=github%20logo&ved=2ahUKEwjQn6647bT8AhXljtgFHQNHCAEQMygDegUIARDjAQ)
+
+
    # INSTALLATION
    This site was built using [For windows](https://gitforwindows.org/) download Git bash from here
 
