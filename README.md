@@ -1,4 +1,4 @@
-   ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Foctocat&psig=AOvVaw0NPEZltt40BTTYirfHDHZN&ust=1673160257271000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNChjunttPwCFQAAAAAdAAAAABAE)
+   ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2013-04-16-new-github-logo%2F&psig=AOvVaw0NPEZltt40BTTYirfHDHZN&ust=1673160257271000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNChjunttPwCFQAAAAAdAAAAABAI)
 
 
    # INSTALLATION
